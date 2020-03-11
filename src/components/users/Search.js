@@ -45,7 +45,7 @@ class Search extends Component {
           <input
             type='submit'
             value='Search'
-            className='btn btn-dark btn-block'
+            className='btn btn-primary btn-block'
           />
         </form>
         {this.props.showClear && (
